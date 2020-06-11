@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Array Methods
+Project to execute high order array methods and React Redux 
+
+### Project Specifications
+1. Fetch random users from the randomuser.me API
+2. Use map() to double wealth
+3. Use filter() to filter only millionaires
+4. Use sort() to sort by wealth
+5. Use reduce() to add all wealth
+
 ## Available Scripts
 
 In the project directory, you can run:
